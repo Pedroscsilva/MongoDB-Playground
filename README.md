@@ -1,1 +1,1 @@
-A bunch of beginner queries in MongoDB.
+Practicing queries in MongoDB.
